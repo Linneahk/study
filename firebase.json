@@ -3,7 +3,7 @@
     "providers": {}
   },
   "hosting": {
-    "public": "y",
+    "public": ".",
     "ignore": [
       "firebase.json",
       "**/.*",
